@@ -13,6 +13,8 @@ public class StringDemo {
 		String s4 = new String(s2);
 		
 		System.out.println();
+		
+		"a:b:cd".split(":");
 	}
 	
 }
