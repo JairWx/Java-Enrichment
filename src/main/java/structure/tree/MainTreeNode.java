@@ -33,9 +33,10 @@ public class MainTreeNode {
 			if(node.right == null) {
 				node.right = new TreeNode(val);
 			}else{
-				node = 
+			
 			}
 			
 		}
+		return root;
 	}
 }
