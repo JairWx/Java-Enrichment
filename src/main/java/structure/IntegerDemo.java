@@ -1,6 +1,5 @@
 package structure;
 
-import org.junit.Test;
 
 public class IntegerDemo {
 	
